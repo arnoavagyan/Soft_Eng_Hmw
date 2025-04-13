@@ -1,0 +1,2 @@
+C:\Users\arnoa\OneDrive\Рабочий стол\hmw\obj\Debug\net5.0\hmw.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\arnoa\OneDrive\Рабочий стол\hmw\obj\Debug\net5.0\hmw.csproj.CoreCompileInputs.cache
