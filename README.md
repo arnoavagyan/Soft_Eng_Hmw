@@ -7,7 +7,10 @@ in order to save messages in the database system.
 
 # Content
 The repository contains 3 main folders(for each layer) and solution file.
-Interfaces are separated from the main classes and located in the implementation sub-folders.
+1. API level is responsible for starting the program, reading messages, passing to NATS service.
+2. Business level is responsible for validation of the messages and transfer to the DATA layer.
+3. DATA layer is responsible for saving input message in the database.
+All interfaces are separated from the main classes and located in the implementation sub-folders.
 
 # Installation Guide
 In order to run this project, following steps needs to be done:
